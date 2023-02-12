@@ -1,0 +1,19 @@
+/*standard tags you just put without a # or . before it*/
+li {
+    color: red
+  }
+  
+  /*This is an id*/
+  #myButton {
+    color: blue;
+  }
+  
+  /*This is a class*/
+  .redH1 {
+    color: red;
+  }
+  
+  /*This is a class*/
+  .blueText {
+    color: blue;
+  }
